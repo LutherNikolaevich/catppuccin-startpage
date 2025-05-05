@@ -75,8 +75,7 @@ You can use different add-ons or extensions for this.
 
 The search dialogue allows you to display a search bar with various search engines defined in the configuration. To select each one, simply prefix the query with the corresponding `!<id>`. By default, the defined search engines are:
 
-- `!g`: Google
-- `!d`: DuckDuckGo (default)
+- `!g`: Google (default)
 
 ## 🖼️ Available Banners
 

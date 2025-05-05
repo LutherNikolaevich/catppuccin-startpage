@@ -1,10 +1,10 @@
 // User configuration for the startpage. Update the palette, location, and your preferred tabs, categories, and links.
-const palette = macchiato;
+const palette = mocha;
 
 const default_configuration = {
   overrideStorage: true,
   temperature: {
-    location: "London",
+    location: "Philippines",
     scale: "C",
   },
   clock: {
@@ -13,7 +13,6 @@ const default_configuration = {
   },
   search: {
     engines: {
-      d: ["https://duckduckgo.com/?q=", "DuckDuckGo"],
       g: ["https://google.com/search?q=", "Google"],
     },
   },
@@ -22,7 +21,7 @@ const default_configuration = {
   },
   disabled: [],
   localIcons: false,
-  fastlink: "https://chat.openai.com",
+  fastlink: "https://github.com/LutherNikolaevich",
   openLastVisitedTab: true,
   tabs: [
     {
